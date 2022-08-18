@@ -64,7 +64,6 @@ breakdown =>
 
 Hello `let` a keyword of value
 
-- ## Buga won let me see you dey buga won
 
 ![LCO](./img/Logo.png)
 
